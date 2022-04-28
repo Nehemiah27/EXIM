@@ -1,6 +1,6 @@
 # EXIM
 Export_Import_Service_Provider
-The website is constructed on the assumption as if that the admin is running an Export-Import Service for Inter Country
+The website is constructed on the assumption as if that the admin is running an Export-Import Service for Inter Countries
 
 
 The Basic structure has been designed using Pure CSS & HTML;
