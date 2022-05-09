@@ -239,8 +239,7 @@
                     <label for="nameC">Name <span>*</span></label>
                 </div>
                 <div class="entries2">
-                    <input type="text" id="nameC" placeholder="Donald Trumph" required>
-
+                    <input type="text" id="nameC" maxlength="50" placeholder="Enter your Name" required>
                 </div>
             </div>
 
@@ -249,7 +248,7 @@
                     <label for="mailing">Email <span>*</span></label>
                 </div>
                 <div class="entries2">
-                    <input type="email" id="mailing" placeholder="donaldtrumph@gmail.com" required>
+                    <input type="email" id="mailing" pattern="[a-z0-9.-]+@[a-z0-9.-]+\.[a-z]{2,}$" maxlength="50" minlength="5" placeholder="Enter your email" required>
 
                 </div>
             </div>
@@ -259,8 +258,7 @@
                     <label for="numbering">Phone <span>*</span></label>
                 </div>
                 <div class="entries2">
-                    <input type="number" id="numbering" placeholder="+918885172581" required>
-
+                    <input type="number" minlength="10" id="numbering" placeholder="+918888888888" required>
                 </div>
             </div>
 
@@ -269,7 +267,7 @@
                     <label for="gist">Subject <span>*</span></label>
                 </div>
                 <div class="entries2">
-                    <input type="text" id="gist" placeholder="Business Enquiry" required>
+                    <input type="text" id="gist" maxlength="50" placeholder="Business Enquiry" required>
 
                 </div>
             </div>
@@ -280,7 +278,7 @@
                 </div>
                 <div class="entries2">
                     <textarea type="text" id="draft" name="draft" class="entries1"
-                        placeholder="Glad to know about your EXIM Services!, I wanna place some Business deal with your Offices"
+                        placeholder="Glad to know about your EXIM Services!, I wanna place some Business deal with your Offices" maxlength="500"
                         required></textarea>
                 </div>
             </div>
