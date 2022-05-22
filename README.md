@@ -17,7 +17,7 @@ A static webpage for Indian Exports & Imports Business enterprise with basic Tec
 
 ## Inspiration
 
-Inspired by the Complexity in the Indian Exports & Imports Business Rules
+Inspired by the Complexity in the Indian Exports & Imports Business Rules.
 
 ## Features
 
@@ -32,20 +32,20 @@ Inspired by the Complexity in the Indian Exports & Imports Business Rules
 
 
 ## What's Inside
-- Home Page
-- About us Information(regarding Business)
-- Experience
-- Contacts
-- A form for sending the feedback to the admin
-- Footer(Summary of Admin like Social Media Pages & branches)
+- Home Page.
+- About us Information(regarding Business).
+- Experience.
+- Contacts.
+- A form for sending the feedback to the admin.
+- Footer(Summary of Admin like Social Media Pages & branches).
 
 ## Authors Talk
 
 - The page is created for educational purpose.
-- No Commercial event/Transaction involved
+- No Commercial event/Transaction involved.
 - Though in the footer, It has been provided as "All rights reserved & copyrights", Infact, there are no such rights available with the adimn, it is ready to serve project.
 - There is no entity as mentioned in the Webpage, Resemblance of webcontent with real-world life domains/Transaction is purely coincidental & even they got match, it is only created for educational purpose.
-- Social media links are related to the admin. All are free to reach the admin via those links
+- Social media links are related to the admin. All are free to reach the admin via those links.
 - The admin is ready to accept/convey the user interested result at the contacts provided in the webpage.
 - The admin accepts no liabilty for the damages that might arise or be caused due to the usage of webapplication, but assures that he at his best can revoke the hosting/changing the content if the users provide an appropriate reason.
 
