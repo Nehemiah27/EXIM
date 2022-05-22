@@ -1,45 +1,60 @@
-# EXIM
-Export_Import_Service_Provider
-The website is constructed on the assumption as if that the admin is running an Export-Import Service for Inter Countries
+
+# Nehemiah's Global India Exports & Imports
+
+A static webpage for Indian Exports & Imports Business enterprise with basic Tech Stack
 
 
-The Basic structure has been designed using Pure CSS & HTML;
-Only minor jQuery that is also for the purpose of Navigation bar
+## Authors
 
-The Web page contains
-a. Home Page,
-b. About Us information,
-c. Experience,
-d. Contacts,
-e. A form for the sending message to the Admin(ofcourse, the backend link for catering the user messages is not provided, will soon be working in the very next months),
-f. A simple footer
+[@Nehemiah27](https://github.com/Nehemiah27)
 
 
+## Tech Stack
 
-The Home page contains the back ground as loop video for the full screen
-
-The Web page is purely intended for the Desktop version
-
-
-Main Aim of this static website is to exhibit HTML & CSS for now, and to turn it into the Major project for the upcoming seasons, like by, linking the backend to this page and performing certain logics.
+- HTML
+- CSS
 
 
-The content/Links provided in the application/webpage is for purely educational purpose and no commercial transaction/element is involved.
+## Inspiration
 
-Though in the footer, It has been provided as All rights reserved & copyrights, Infact, there are no such rights available with the adimn, it is ready to serve project.
+Inspired by the Complexity in the Indian Exports & Imports Business Rules
 
-herein the website, it has been mentioned as an entity that is related to the admin, but in reality/legality, there is no such entity, It has been entertained solely for the purpose of exhibiting the realistic intent of real life website in this education exhibition.
+## Features
 
-the contacts/links of social media provided are related to admin, Admin authorised to the users of the website to directly appraoch for the suggestions/queries on the development of the webpage.
-
-The about us information in the webpage is assumption and there is no reality supports, even if there are any realstic relation by whatsover significance, it is purely coincidental and the intent is only for educational.
-
-The admin is ready to accept/convey the user interested result at the contacts provided in the webpage.
-
-The page is constructed solely on the basic knowledge of HTML & CSS, the full picture is soon coming out with additions of backend to the web application and other UI/UX feature in the near future.
-
-
-The admin accepts no liabilty for the damages that might arise or be caused due to the usage of webapplication, but assures that he at his best can revoke the hosting/changing the content if the users provide an appropriate reason.
+- Home Page Back-ground video Playing loop.
+- Navigation Bar background effect on scrolling & on home page Top View.
+- Text Selection/Text copying feature Disabled.
+- Right Click Disabled.
+- Mouse Pointer graphic Effect launched.
+- Fullscreen mode.
+- Gradient effect on Heading & Body Back-ground.
+- Best experience on Zoom view of 100%(On Desktops).
 
 
-Feel free to reach the admin.
+## What's Inside
+- Home Page
+- About us Information(regarding Business)
+- Experience
+- Contacts
+- A form for sending the feedback to the admin
+- Footer(Summary of Admin like Social Media Pages & branches)
+
+## Authors Talk
+
+- The page is created for educational purpose.
+- No Commercial event/Transaction involved
+- Though in the footer, It has been provided as "All rights reserved & copyrights", Infact, there are no such rights available with the adimn, it is ready to serve project.
+- There is no entity as mentioned in the Webpage, Resemblance of webcontent with real-world life domains/Transaction is purely coincidental & even they got match, it is only created for educational purpose.
+- Social media links are related to the admin. All are free to reach the admin via those links
+- The admin is ready to accept/convey the user interested result at the contacts provided in the webpage.
+- The admin accepts no liabilty for the damages that might arise or be caused due to the usage of webapplication, but assures that he at his best can revoke the hosting/changing the content if the users provide an appropriate reason.
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at nehemiah2015s@gmail.com
+## Contributing
+
+Contributions are always welcome!
+
+Eager to hear or view the Contributions :-)
